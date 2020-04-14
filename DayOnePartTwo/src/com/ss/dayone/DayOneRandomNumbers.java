@@ -68,6 +68,7 @@ public class DayOneRandomNumbers {
 		
 		
 		}
+		userInput.close();
 		
 
 	}
